@@ -1,0 +1,68 @@
+06-06-2016
+-----------------------------------------------------------------------------------
+Id instancia 288786 - idSolicitud 1169196 
+
+<SCCALL type="String"><![CDATA[FRANCISCO ROS]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[2725]]></SCNRO>
+<SCAPARP type="String" />
+<SCCIUD type="String"><![CDATA[MONTEVIDEO]]></SCCIUD>
+<SCCPOS type="String"><![CDATA[11300]]></SCCPOS>
+
+<NOTDSC type="String"><![CDATA[SCCIUD no puede ser nulo]]></NOTDSC>
+<NOTDSC type="String"><![CDATA[SCCALL no puede ser nulo]]></NOTDSC>
+-----------------------------------------------------------------------------------	  
+Id                              Id                              Fecha   
+Solicitud                       Proceso                                 
+1169079                         288785                          20160606
+1169079                         289229                          20160607
+
+<SCCALL type="String"><![CDATA[PAYSANDU]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[1684]]></SCNRO>
+<SCAPARP type="String"><![CDATA[1]]></SCAPARP>
+<SCCIUD type="String"><![CDATA[YOUNG]]></SCCIUD>
+ 
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------- 
+03-06-2016
+-----------------------------------------------------------------------------------
+Id instancia 288689 - idSolicitud 1168901
+
+<SCCALL type="String"><![CDATA[MIGUEL BARREIRO]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[3126]]></SCNRO>
+<SCAPARP type="String"><![CDATA[204]]></SCAPARP>
+<SCCIUD type="String"><![CDATA[MONTEVIDEO]]></SCCIUD>
+
+-----------------------------------------------------------------------------------
+Id                              Id                              Fecha   
+Solicitud                       Proceso                                 
+1168559                         288212                          20160602
+1168559                         289248                          20160607
+
+<SCCALL type="String"><![CDATA[FAUQUETE]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[6308]]></SCNRO>
+<SCAPARP type="String"><![CDATA[0]]></SCAPARP>
+<SCCIUD type="String"><![CDATA[MONTEVIDEO]]></SCCIUD>
+
+-------------------------------------------------------------------------------------
+Id                              Id                              Fecha   
+Solicitud                       Proceso                                 
+1169145                         288685                          20160603
+1169145                         289226                          20160607
+
+<SCCALL type="String"><![CDATA[zorrilla de san martin ]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[55]]></SCNRO>
+<SCAPARP type="String"><![CDATA[0]]></SCAPARP>
+<SCCIUD type="String"><![CDATA[ROCHA]]></SCCIUD>
+-------------------------------------------------------------------------------------
+Id                              Id                              Fecha   
+Solicitud                       Proceso                                 
+
+
+1169283                         289227                          20160607
+
+<SCCALL type="String"><![CDATA[AV SARANDI]]></SCCALL>
+<SCNRO type="Integer"><![CDATA[44]]></SCNRO>
+<SCAPARP type="String"><![CDATA[1]]></SCAPARP>
+<SCCIUD type="String"><![CDATA[SALTO]]></SCCIUD>
+<SCCPOS type="String"><![CDATA[50000]]></SCCPOS>

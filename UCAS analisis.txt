@@ -1,0 +1,33 @@
+evaluar de donde estan invocando el UCA  enviar msj iniciarla 
+buscar uca por id
+ejecutar por rest
+
+
+https://w3-connections.ibm.com/forums/html/topic?id=ec3dd1c8-422a-4b74-a24d-059fbf33520a&ps=25 
+
+13:32:59: https://w3-connections.ibm.com/forums/html/topic?id=6ad34767-b687-4c92-a337-b3fb9ff73e5d&ps=25 
+
+<eventmsg> 
+	<event processApp="TESTUCA" ucaname="StartProcessUCA">127951da-1486-4f5d-ac9c-57e635fee027</event>
+	<parameters>
+		<parameter>
+			<key>message</key>
+			<value>test from rest</value>
+		</parameter>
+	</parameters>
+</eventmsg>
+
+
+
+awsbb_infocomerciales_cs
+server5073 o 192.168.120.73 
+
+puerto 9090
+
+
+http://192.168.10.22/kewn/WebServiceWebPymes.asmx?wsdl.
+
+http://aixprodbpm
+:9080/teamworks/webservices/ALC/q20160629_2120/WSInicioWebPymesGrilla.tws?WSDL 
+http://aixprodbpm.bbva.uru.igrupobbva
+:9080/teamworks/webservices/ALC/q20160629_2120/WSInicioWebPymesGrilla.tws
